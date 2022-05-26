@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lectorex", "lectorex.csproj", "{A28F5628-9DE5-4839-A4DD-4FA61025C4CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A28F5628-9DE5-4839-A4DD-4FA61025C4CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A28F5628-9DE5-4839-A4DD-4FA61025C4CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A28F5628-9DE5-4839-A4DD-4FA61025C4CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A28F5628-9DE5-4839-A4DD-4FA61025C4CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2CCAFF4-EB2B-4DE1-800B-61F7D2D639B2}
+	EndGlobalSection
+EndGlobal
